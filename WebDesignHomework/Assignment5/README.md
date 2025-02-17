@@ -1,0 +1,1 @@
+<p>One class I enjoyed in Middle School was a History class. There were a few of us in there, and I knew everyone, plus the teacher was nice and we'd watch videos about the World Wars. I also remember making a project about Marilyn Monroe for that class.</p>
