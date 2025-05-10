@@ -1,0 +1,18 @@
+div {
+    border: 2px solid lavenderblush;
+}
+.with-padding {
+    padding: 2em;
+ }
+ .parent-container {
+    background-color: lavenderblush;
+    width: 250px;
+    height: 250px;
+    
+ }
+ .child-container {
+    background-color: pink;
+    width: 50%;
+    height: 50%;
+ }
+ 
