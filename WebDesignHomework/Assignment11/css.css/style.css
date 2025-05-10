@@ -1,0 +1,27 @@
+
+.one {
+   font-family: 'Playfair Display', sans-serif;
+   font-weight: normal;
+  color:honeydew;
+}
+.hover effects {
+    font-size: 1.5em;
+    font-family: Playfair Display;
+ }
+ a:link {
+    color: green;
+    text-decoration: none;
+ }
+ 
+ a:visited {
+    color: #777;
+    text-decoration: none;
+ }
+ 
+ a:hover {
+    color: blue;
+    font-style: italic;
+ }
+ * {
+    word-spacing: normal;
+  }
